@@ -4,3 +4,4 @@ Animation with just "printf" function in C language. I've provided three differe
 **Note:** *system("cls") function is required to refresh the terminal. Your system must support it.*
 
 ## Preview
+![preview](https://user-images.githubusercontent.com/50569315/110948897-1cee0680-836c-11eb-9c33-f8bce0949a95.gif)
